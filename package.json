@@ -1,12 +1,20 @@
 {
   "name": "jwt-redis-session",
   "description": "JSON Web Token session middleware backed by Redis",
-  "version": "1.0.5",
+  "version": "1.1.0",
   "authors": "Azuqua",
   "contributors": [
     {
       "name": "Alec Embke",
       "url": "alec@azuqua.com"
+    },
+    {
+      "name": "Patricio Sartore",
+      "url": "patricio.sartore@patagonian.it"
+    },
+    {
+      "name": "Eduardo Daniel Cuomo",
+      "url": "reduardo7@gmail.com"
     }
   ],
   "licenses": [
@@ -17,7 +25,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/azuqua/jwt-redis-session"
+    "url": "git://github.com/PatagonianTech/jwt-redis-session"
   },
   "scripts": {
     "test": "mocha test/tests.js"
@@ -39,6 +47,7 @@
     "restjs": "azuqua/restjs"
   },
   "keywords": [
+    "PatagonianTech",
     "azuqua",
     "jwt",
     "token",
