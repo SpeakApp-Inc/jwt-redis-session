@@ -1,3 +1,11 @@
+# DEPRECATED
+
+Replaced by [@patagoniantech/jwt-redis-session](https://www.npmjs.com/package/@patagoniantech/jwt-redis-session)
+
+See https://github.com/SpeakApp-Inc/conversifi-web/pull/613
+
+-------
+
 JWT-Redis-Session
 =================
 
